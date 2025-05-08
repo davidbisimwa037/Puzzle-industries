@@ -1,0 +1,58 @@
+/* le style de ma page */
+	
+	ul{
+		color:rgba(255, 045, 000, 0.8);
+		font-size:1em;
+		font-style:italic;
+        font-family: Times New Roman, Arial, Lucida;
+		text-decoration:blink
+		
+	}
+	.couleur_cyan{
+		color:#000000;
+		text-align:center;
+		text-decoration:blink
+	}
+	.container{
+		width:100px;
+		border:1px solid black;
+		font-size:15px;
+		font-style:normal;
+		color:blue;
+		opacity:0.4;
+		font-weight:lighter;
+		line-height:22.5px;
+		font-family:Calibri, Garamond;
+		text-decoration:overline;
+		text-transform : uppercase ;
+		letter-spacing:10px;
+		
+	}
+	#pire_vente{
+		color:#AF88AF;
+		font-size:8px;
+		text-indent:-29%
+	}
+	li{
+		font-style:inherit;
+		text-decoration:underline;
+		
+	}
+	span{
+		font-style:inherit;
+		text-align:right;
+		text-decoration:line-through
+	}
+	ol{
+		font-weight:bolder;
+		line-height:22.5px;
+		font-family: Times New Roman, Arial, Lucida;
+		text-indent:20px;
+		word-spacing:15px;
+		text-shadow:1px, 2px, yellow;
+	}
+	.para1{
+		font-family: Calibri, Times New Roman;
+		font-size: 40px;
+		font-style:italic;
+		text-shadow:1px, 20px, 6px, red;
